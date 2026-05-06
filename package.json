@@ -5,6 +5,6 @@
   "description": "Zero-dependency JavaScript framework — blocks, pebbles, handlers, shines, TS compiler, build pipeline",
   "main": "core/glasshouse.js",
   "dependencies": {},
-  "size": 0,
+  "size": 315042,
   "glasshouse": ">=2.0.0"
 }

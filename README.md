@@ -1,5 +1,7 @@
 # GlassHouse
 
+![GlassHouse](banner.png)
+
 Zero-dependency JavaScript framework. No bundlers, no package managers, no transpilers — just vanilla JS loaded via `<script>` tags. Everything you need to build browser applications is here: component blocks, type system, theming, TypeScript compiler, build pipeline, and package management. Built from scratch.
 
 Built for the [Glas CLI](https://github.com/OniuUI/Glas-CLI).
