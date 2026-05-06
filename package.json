@@ -1,0 +1,10 @@
+{
+  "name": "glasshouse",
+  "version": "2.0.0",
+  "type": "framework",
+  "description": "Zero-dependency JavaScript framework — blocks, pebbles, handlers, shines, TS compiler, build pipeline",
+  "main": "glasshouse.js",
+  "dependencies": {},
+  "size": 0,
+  "glasshouse": ">=2.0.0"
+}
