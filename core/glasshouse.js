@@ -2,7 +2,7 @@
   'use strict';
 
   const MAX_BLOCK_SIZE = 40960;
-  const MAX_TOTAL_SIZE = 262144;
+  const MAX_TOTAL_SIZE = 1048576;
   const STALE_TIMEOUT = 30000;
   const CLEANUP_INTERVAL = 15000;
 

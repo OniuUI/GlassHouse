@@ -40,9 +40,7 @@
       'interface':1, 'type':1, 'as':1, 'from':1, 'of':1, 'readonly':1,
       'abstract':1, 'async':1, 'await':1, 'declare':1, 'namespace':1,
        'module':1, 'keyof':1, 'infer':1, 'never':1,
-      'any':1, 'unknown':1, 'true':1, 'false':1, 'null':1, 'undefined':1,
-      'string':1, 'number':1, 'boolean':1, 'symbol':1, 'bigint':1,
-      'get':1, 'set':1,
+       'any':1, 'unknown':1, 'true':1, 'false':1, 'null':1, 'undefined':1,
     };
 
     // Known HTML tag names (lowercase) for JSX disambiguation
